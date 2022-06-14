@@ -5,7 +5,7 @@ Para realizar esta actividad del curso de Periodismo de Datos 2, escogí un repo
 ##  ANÁLISIS DEL RPORTAJE
 
 1. Este reportaje cumple con las características del periodismo de datos: usa estadísticas oficiales y visualizaciones *(gráficos interactivos)* para alcanzar un mayor atractivo y agregar originalidad a la historia. 
-2. Este escrito establece la fuente de la información del reportaje. Las cifras provienen de un análisis elaborado por el diario **La Nación de Costa Rica** , sobre la base de datos del archivo de matrimonios del **Registro Civil**.  Aunque, me llama la atención que la periodista no coloca desde el principio la fuente, que para mí sería lo ideal, sino que espera a escribir once párrafos para hacerlo. 
+2. Este escrito establece la fuente de la información del reportaje. Las cifras provienen de un análisis elaborado por el diario **La Nación de Costa Rica** , sobre la base de datos del archivo de matrimonios del **Registro Civil**.  Aunque, me llama la atención que la periodista no coloca desde el principio la fuente, que para mí sería lo ideal, sino que espera a escribir once párrafos para hacerlo.
 3. *Fallas* cumplió con el proceso de recopilación u obtención de datos estadísticos para resolver su hipótesis,>">hasta que la muerte, ¿lo separe?. La frase la usa el cura cuando la pareja contrae nupcias para dar a entender que la unión es para siempre.  Pero, que en los divorcios no se cumple con este principio. 
 4.  Está claramente establecido que realizó un análisis de datos para sacar como conclusiones  que los divorcios se triplicaron en tres décadas. 
 
