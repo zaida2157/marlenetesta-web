@@ -3,7 +3,7 @@
 Para realizar esta actividad del curso de Periodismo de Datos 2, escogí un reportaje de la periodista, *Hassel Fallas*,  del diario **La Nación de Costa Rica**, cuyo [enlace] copio aquí: (https://www.nacion.com/data/divorcios-se-triplicaron-en-ultimas-tres-decadas/PV2BFG4CEJEN5G7QAMQS2VIBUE/story/)
 
 ##  Análisis del reportaje
-! [Iustración] (https://es.123rf.com/photo_51994439_mujer-irreconocible-que-sostiene-rasgado-foto-de-joven-en-el-amor-relaci%C3%B3n-termin%C3%B3-crying-valentines.html?vti=lbf24l4f9lowwo12id-1-104)
+! [Iustración] (https://www.google.com/search?q=imagenes+de+divorcio&rlz=1C1SQJL_esPA824PA826&sxsrf=ALiCzsaG9rWY3PCtinbSAAjFep7W_esn7g:1655232101689&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8lcSLzK34AhUKdDABHfZnBoEQ_AUoAXoECAEQAw&biw=911&bih=417&dpr=1.5)
 
 1. Este reportaje cumple con las características del periodismo de datos: usa estadísticas oficiales y visualizaciones *(gráficos interactivos)* para alcanzar un mayor atractivo y agregar originalidad a la historia. 
 2. Este escrito establece la fuente de la información del reportaje. Las cifras provienen de un análisis elaborado por el diario **La Nación de Costa Rica** , sobre la base de datos del archivo de matrimonios del **Registro Civil**.  Aunque, me llama la atención que la periodista no coloca desde el principio la fuente, que para mí sería lo ideal, sino que espera a escribir once párrafos para hacerlo.
