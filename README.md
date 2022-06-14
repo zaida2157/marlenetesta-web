@@ -10,7 +10,7 @@ Para realizar esta actividad del curso de Periodismo de Datos 2, escogí un repo
 4. La frase la usa el *cura* cuando la pareja contrae nupcias para dar a entender que la unión es para siempre.  Pero, que en los divorcios no se cumple con este principio. 
 5. En esta etapa  está claramente establecido que realizó un análisis de datos para sacar como conclusiones  que los divorcios se triplicaron en tres décadas. Además, la periodista hace una comparación de los casamientos y sentencias de dos periodos.
 
-## Contextualización
+## Contexto   
 
 La contextualización de datos me resulta interesante.  Aqui vamos a enumaerar otra serie de puntos relacionados con el ejercicio de contextualización que realizó *Fallas* en este reportaje. 
 1.  Por ejemplo, compara los divorcios en dos siglos distintos y lo hace narrando historias humananas.  Puede destacarse que la relación de los divorcios con las reformas al  **Código de Familia **  y los efectos sociales del fenómeno refuerza el contenido del texto y le ofrece profundidad. 
