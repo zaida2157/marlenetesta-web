@@ -17,5 +17,5 @@ La contextualización de datos me resulta interesante.  Aqui vamos a enumaerar o
 2. Está muy bien presentado el material gráfico.  Logré navegar y digerir sin complicaciones la información compilada en las infografías.
 3.  Es un reportaje de profundidad, cuya lectura resulta sumamente liviana e interesante por el apoyo de las infografías y la redacción precisa y concisa. 
 
-## ILUSTRACIÓN
+## Ilustraciò
 ![Los divorcios se increentan](https://www.istockphoto.com/es/fotos/divorcio)
